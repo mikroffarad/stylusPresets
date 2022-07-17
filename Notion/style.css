@@ -1,4 +1,3 @@
-@-moz-document domain("notion.so") {
    /* Google Font */
     /* latin */
     @font-face {
@@ -98,5 +97,3 @@
     div[style="display: flex; align-items: center; position: relative; flex-direction: row; transform-origin: right 50%; right: 5px; top: -111px; opacity: 1;"] > div {
         background-color: var(--main-bg-color) !important;
     }
-
-}
