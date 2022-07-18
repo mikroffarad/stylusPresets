@@ -37,7 +37,8 @@
     }
     
     :root {
-      --main-bg-color: #091930;
+/*       --main-bg-color: #091930; */
+       --main-bg-color: #F0F0F0;
       --second-bg-color: #06265C;
       --bright-color: #3571FF;
     }
