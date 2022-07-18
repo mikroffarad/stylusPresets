@@ -69,10 +69,6 @@
         color: #3DDC84 !important;
     }
     
-    div[data-block-id="c7c46a12-4ce6-4e92-ab81-57543e94ef10"] * {
-        background: #000 !important;
-    }
-    
     svg {
         fill: var(--bright-color) !important;
     }
