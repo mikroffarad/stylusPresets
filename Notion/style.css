@@ -37,15 +37,14 @@
     }
     
     :root {
-/*       --main-bg-color: #091930; */
-       --main-bg-color: #F0F0F0;
+      --main-bg-color: #091930;
       --second-bg-color: #06265C;
       --bright-color: #3571FF;
     }
     
     .notion-topbar, .notion-frame, .notion-sidebar {
-        background: var(--main-bg-color) !important;
-/*         background: var(--second-bg-color) !important; */
+/*         background: var(--main-bg-color) !important; */
+        background: var(--second-bg-color) !important;
     }
     
     div[style="max-width: 100vw; z-index: 100; background: rgb(25, 25, 25); user-select: none;"] {
